@@ -3,7 +3,7 @@
 - 🔭 Atualmente busco uma oportunidade de aplicar meu conhecimento em JavaScript, HTML, CSS.
 - 🌱 Estudando React e um pouco de Python quando tenho um tempinho sobrando, tentando expandir um pouco mais meu conhecimento e diversificar.
 
-![Estatísticas do GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=ErasmoAbreu&show_icons=true&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErasmoAbreu&layout=compact)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Erasmo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
