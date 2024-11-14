@@ -1,6 +1,6 @@
 ## Olá! Seja bem vindo, me chamo Erasmo Abreu 👋
 
-- 🔭 Atualmente busco uma oportunidade de aplicar meu conhecimento em JavaScript, HTML, CSS.
+- 🔭 Atualmente busco uma oportunidade de aplicar meu conhecimento em JavaScript, Node.js, HTML, CSS, MySQL.
 - 🌱 Estudando React e um pouco de Python quando tenho um tempinho sobrando, tentando expandir um pouco mais meu conhecimento e diversificar.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErasmoAbreu&layout=compact)
