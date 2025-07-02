@@ -1,8 +1,8 @@
 ## Olá! Seja bem vindo, me chamo Erasmo Abreu 👋
 
-- 🔭 Atualmente busco uma oportunidade de aplicar meu conhecimento em JavaScript, Node.js, HTML, CSS, MySQL.
-- 🌱 Atualmente estudando JavaScript e trilhando o caminho para me tornar um desenvolvedor full stack.
- Nos momentos livres, também exploro Java para expandir meus conhecimentos. Sempre buscando desafios e oportunidades para aprender e crescer na área de desenvolvimento. 🚀
+- 🔭 Apaixonado por tecnologia e desenvolvimento de software, com experiência na criação de aplicações
+ utilizando Java, Spring, JavaScript e Node.js. Estou em busca de um novo desafio onde eu possa colaborar em projetos inovadores e contribuir para o crescimento da equipe.
+- 🌱 Movido pela curiosidade e pela paixão em resolver problemas através do código. Meu foco atual é aprofundar minha expertise em Java e no ecossistema Spring para desenvolver soluções back-end eficientes. Com o objetivo de me tornar um desenvolvedor Full Stack, também dedico tempo ao estudo de outras linguagens buscando sempre agregar mais conhecimento. Busco uma oportunidade onde eu possa aprender, crescer e agregar valor a projetos significativos. 🚀
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErasmoAbreu&layout=compact)
           
