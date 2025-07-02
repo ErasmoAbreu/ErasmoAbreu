@@ -5,8 +5,9 @@
  Nos momentos livres, também exploro Java para expandir meus conhecimentos. Sempre buscando desafios e oportunidades para aprender e crescer na área de desenvolvimento. 🚀
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErasmoAbreu&layout=compact)
-
+          
 <div style="display: inline_block"><br>
+  <img align="center" alt="Erasmo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Erasmo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Erasmo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Erasmo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
