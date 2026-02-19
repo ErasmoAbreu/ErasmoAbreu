@@ -22,7 +22,7 @@ Back-end Developer | Java & Spring Boot Student
 ##
 
 <div> 
-  <a href="https://www.instagram.com/erasmoabreu1/" target="_blank"><img src="https://www.svgrepo.com/show/303654/java-logo.svg"></a>
+  <a href="https://www.instagram.com/erasmoabreu1/" target="_blank"><img src=""></a>
  	<a href="https://www.twitch.tv/erasmochico" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:erasmoabreu1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erasmo-abreu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
