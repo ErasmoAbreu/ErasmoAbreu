@@ -5,7 +5,7 @@ Back-end Developer | Java & Spring Boot Student
 
 🌱 Estudante de ADS: Conclusão prevista para 2026.1.
 
-🛠️ Stack Principal: Java, Spring Framework, Node.js e SQL.
+🛠️ Stack Principal: Java, Spring Framework.
 
 🔄 Carreira: Transição do setor industrial para tecnologia, trazendo resiliência e foco em processos.
 
