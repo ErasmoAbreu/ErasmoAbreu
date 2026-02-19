@@ -9,7 +9,7 @@ Back-end Developer | Java & Spring Boot Student
 
 🔄 Carreira: Transição do setor industrial para tecnologia, trazendo resiliência e foco em processos.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErasmoAbreu&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErasmoAbreu&layout=compact)// -->
           
 <div style="display: inline_block"><br>
 <img align="center" alt="Erasmo-Java" height="45" width="50" src="https://images.icon-icons.com/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
