@@ -9,8 +9,6 @@ Back-end Developer | Java & Spring Boot Student
 
 🔄 Carreira: Transição do setor industrial para tecnologia, trazendo resiliência e foco em processos.
 
-📧 Contato: erasmoabreu1@gmail.com
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErasmoAbreu&layout=compact)
           
 <div style="display: inline_block"><br>
