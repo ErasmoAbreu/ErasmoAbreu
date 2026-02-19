@@ -1,8 +1,15 @@
-## Olá! Seja bem vindo, me chamo Erasmo Abreu 👋
+## Erasmo Abreu
+Back-end Developer | Java & Spring Boot Student
 
-- 🔭 Apaixonado por tecnologia e desenvolvimento de software, com experiência na criação de aplicações
- utilizando Java, Spring, JavaScript e Node.js. Estou em busca de um novo desafio onde eu possa colaborar em projetos inovadores e contribuir para o crescimento da equipe.
-- 🌱 Movido pela curiosidade e pela paixão em resolver problemas através do código. Meu foco atual é aprofundar minha expertise em Java e no ecossistema Spring para desenvolver soluções back-end eficientes. Com o objetivo de me tornar um desenvolvedor Full Stack, também dedico tempo ao estudo de outras linguagens buscando sempre agregar mais conhecimento. Busco uma oportunidade onde eu possa aprender, crescer e agregar valor a projetos significativos. 🚀
+"Transformando lógica em soluções eficientes."
+
+🌱 Estudante de ADS: Conclusão prevista para 2026.1.
+
+🛠️ Stack Principal: Java, Spring Framework, Node.js e SQL.
+
+🔄 Carreira: Transição do setor industrial para tecnologia, trazendo resiliência e foco em processos.
+
+📧 Contato: erasmoabreu1@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErasmoAbreu&layout=compact)
           
