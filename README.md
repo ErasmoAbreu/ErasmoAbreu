@@ -1,13 +1,13 @@
 ## Erasmo Abreu
-Back-end Developer | Java & Spring Boot Student
+Back-end Developer | Java & Spring
 
 "Transformando lógica em soluções eficientes."
 
-🌱 Estudante de ADS: Conclusão prevista para 2026.1.
+Formado em ADS (2026.1)
 
-🛠️ Stack Principal: Java, Spring Framework.
+Stack Principal: Java, Spring Framework.
 
-🔄 Carreira: Transição do setor industrial para tecnologia, trazendo resiliência e foco em processos.
+Carreira: Transição do setor industrial para tecnologia, trazendo resiliência e foco em processos.
 
 <p align="left">
   <img alt="Erasmo-Java" height="40" src="https://images.icon-icons.com/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">&nbsp; <img alt="Erasmo-Spring" height="40" src="https://www.svgrepo.com/show/376350/spring.svg">&nbsp; <img alt="Erasmo-Js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp; <img alt="Erasmo-HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp; <img alt="Erasmo-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp; <img alt="Erasmo-Git" height="40" src="https://www.svgrepo.com/show/452210/git.svg">&nbsp; <img alt="Erasmo-PostgreSQL" height="40" src="https://www.svgrepo.com/show/354200/postgresql.svg">
